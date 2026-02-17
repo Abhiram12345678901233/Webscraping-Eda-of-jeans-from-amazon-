@@ -1,0 +1,522 @@
+brand_name,price,discount,gender,fit_type,cloth_material,length_type,rating,Availability
+Ben Martin,799,68,Men,Regular,Stretchable,Full Length,3.8,in-stock
+INKD,779,61,Women,,Stretchable,Full Length,4.1,in-stock
+Ben Martin,799,68,Men,Slim,,Full Length,3.7,out-of-stock
+Miss Chase,767,60,Women,Skinny,Stretchable,Cropped,3.9,out-of-stock
+Ben Martin,899,70,Men,Baggy,Denim,Ankle Length,3.9,out-of-stock
+KOTTY,439,78,Women,Relaxed,,Ankle Length,3.7,in-stock
+Ben Martin,899,70,Women,Bootcut,Denim,Regular Length,3.8,in-stock
+Urbano Fashion,"1,049",58,Men,Straight,Stretchable,Ankle Length,5.0,in-stock
+KARGEENS,799,80,Men,Baggy,Denim,Full Length,4.5,in-stock
+KOTTY,499,80,Women,,Stretchable,Full Length,5.0,in-stock
+Urbano Fashion,"1,299",61,Men,Loose,Stretchable,Regular Length,5.0,in-stock
+RESTART LIFESTYLE,999,62,Men,Regular,Cotton,Regular Length,4.1,in-stock
+ZORO,239,84,Men,,fabric,Ankle Length,,in-stock
+KOTTY,499,80,Women,,Stretchable,Ankle Length,5.0,out-of-stock
+FY LANE,264,74,Women,,Denim,Ankle Length,4.3,in-stock
+ZORO,270,32,Women,,Stretchable,Full Length,4.3,in-stock
+ZORO,232,,Women,,Stretchable,Ankle Length,4.4,in-stock
+Toxen,185,69,Women,,,Ankle Length,4.0,out-of-stock
+Vemilio Quality Meets Affordability,234,77,Women,,,Ankle Length,4.8,in-stock
+KOTTY,499,80,Men,Bootcut,,Cropped,3.8,out-of-stock
+TAGAS,799,73,Women,Loose,Cotton,Cropped,3.2,out-of-stock
+Anirdesh,199,67,Men,,,Full Length,3.7,in-stock
+i'sol,"1,059",68,Women,Straight,Stretchable,Cropped,4.1,in-stock
+INKD,779,63,Women,,Stretchable,Regular Length,4.0,in-stock
+Jubobu,199,80,Women,,,Full Length,3.9,out-of-stock
+GRECIILOOKS,699,65,Men,Wide,Denim,Cropped,3.9,in-stock
+Ben Martin,899,70,Women,Baggy,Denim,Full Length,3.7,out-of-stock
+Amazon Brand - Symbol,699,70,Men,Skinny,Stretchable,Full Length,3.7,in-stock
+Amazon Brand - Symbol,799,58,Women,Relaxed,Cotton,Cropped,3.8,in-stock
+Handcuffs,449,55,Women,,,Regular Length,3.8,out-of-stock
+Obtheleg,299,70,Women,,,Ankle Length,3.7,out-of-stock
+Nifty,499,62,Men,Straight,Denim,Regular Length,3.5,in-stock
+KOTTY,460,77,Women,Straight,,Full Length,,in-stock
+Spykar,"1,236",59,Men,Bootcut,,Ankle Length,3.8,in-stock
+INKD,929,60,Women,,Cotton,Regular Length,3.9,in-stock
+Tomorrow Fashion,499,50,Men,,Denim,Ankle Length,3.5,in-stock
+Amazon Brand - Symbol,799,64,Women,Baggy,Cotton,Ankle Length,3.8,out-of-stock
+Ben Martin,899,70,Women,Bootcut,Denim,Regular Length,3.9,in-stock
+Homeaura,349,71,Women,,,Ankle Length,3.9,in-stock
+KOTTY,444,78,Women,Straight,Cotton,Regular Length,4.2,in-stock
+INKD,899,60,Women,,Stretchable,Regular Length,4.4,in-stock
+Handcuffs,399,60,Women,,Cotton,Full Length,4.4,in-stock
+ZORO,269,73,Women,,Fabric,Cropped,3.6,in-stock
+SUOSDEY,115,81,Women,,,Cropped,4.4,in-stock
+SUOSDEY,289,52,Men,,,Regular Length,3.9,in-stock
+Ben Martin,749,70,Women,Relaxed,,Full Length,4.0,in-stock
+MaheTri,649,68,Men,,Stretchable,Cropped,3.8,out-of-stock
+Ben Martin,899,70,Women,,Stretchable,Ankle Length,4.4,in-stock
+INKD,929,60,Women,Wide,Stretchable,Cropped,4.1,out-of-stock
+VEZZA,179,78,Women,,,Regular Length,3.9,in-stock
+XZQTIVE,115,48,Women,,,Regular Length,3.4,in-stock
+Bewakoof,"1,499",58,Women,Straight,Cotton,Cropped,4.0,in-stock
+Miss Chase,799,80,Women,Skinny,Stretchable,Cropped,3.5,in-stock
+KOTTY,498,70,Women,Wide,Denim,Cropped,4.0,in-stock
+Ben Martin,899,80,Women,Baggy,Stretchable,Cropped,3.9,in-stock
+Kofati,199,59,Women,,,Cropped,4.0,in-stock
+Miss Chase,799,67,Men,Skinny,Stretchable,Regular Length,4.0,in-stock
+Levi's,"1,056",45,Women,Slim,,Ankle Length,3.7,out-of-stock
+Monte Carlo,"1,264",40,Women,Straight,Denim,Full Length,3.6,in-stock
+ADBUCKS,893,67,Women,Straight,,Ankle Length,3.3,in-stock
+Kshavi,199,70,Men,,,Regular Length,5.0,in-stock
+London Hills,599,71,Men,Regular,Denim,Ankle Length,4.0,in-stock
+Amazon Brand - Symbol,549,73,Men,,,Full Length,4.5,out-of-stock
+TAGAS,799,72,Women,Straight,Cotton,Ankle Length,4.1,in-stock
+KOTTY,699,77,Men,,Stretchable,Ankle Length,5.0,in-stock
+Highlander,519,80,Men,Straight,,Cropped,4.0,in-stock
+KARGEENS,799,62,Men,Baggy,Denim,Regular Length,4.1,in-stock
+Urbano Plus,999,55,Men,Straight,Stretchable,Cropped,3.9,in-stock
+Spykar,"1,569",,Men,Tapered,,Ankle Length,3.8,in-stock
+Highlander,469,70,Women,Tapered,,Ankle Length,3.7,in-stock
+INKD,748,61,Women,,Stretchable,Ankle Length,4.0,in-stock
+Miss Chase,749,60,Men,Skinny,Stretchable,Cropped,4.6,in-stock
+Ben Martin,779,68,Women,Regular,Stretchable,Ankle Length,3.6,in-stock
+Amazon Brand - Symbol,767,70,Women,Skinny,Stretchable,Cropped,4.4,out-of-stock
+Pepe Jeans,799,70,Women,Regular,Cotton,Cropped,4.1,in-stock
+MURTISIDDH,699,70,Women,,,Full Length,4.1,in-stock
+Amazon Brand - Symbol,604.,60,Women,Baggy,,Regular Length,3.9,in-stock
+WOODONICK STORE,299,52,Women,,,Regular Length,4.0,in-stock
+Bewakoof,849,,Women,Straight,Cotton,Regular Length,,in-stock
+Toxen,649.,69,Men,,,Full Length,3.9,in-stock
+INKD,799.,80,Women,Slim,Cotton,Regular Length,4.0,in-stock
+TAGAS,449.,70,Men,Loose,,Ankle Length,3.9,in-stock
+Ben Martin,289,70,Women,Relaxed,,Cropped,3.0,out-of-stock
+INOCEAN,"1,499",44,Women,,,Ankle Length,4.1,in-stock
+Kofati,185,80,Women,,,Full Length,3.7,out-of-stock
+Bewakoof,439,21,Men,Wide,Cotton,Cropped,3.8,in-stock
+Ben Martin,749,70,Women,Baggy,Denim,Full Length,3.6,in-stock
+Bewakoof,749,72,Women,Straight,Cotton,Cropped,3.6,in-stock
+ADBUCKS,559,40,Women,Straight,,Ankle Length,5.0,in-stock
+CRESSNOVA,199,58,Men,,,Cropped,3.5,in-stock
+TAGAS,"1,499",73,Men,Straight,Cotton,Cropped,4.2,in-stock
+Amazon Brand - Symbol,899,71,Men,,,Cropped,4.0,in-stock
+Amazon Brand - Symbol,799,62,Men,Relaxed,Cotton,Cropped,5.0,in-stock
+Ben Martin,893,70,Women,Baggy,Denim,Regular Length,4.0,in-stock
+KOTTY,419,77,Women,Straight,Denim,Regular Length,3.3,in-stock
+Generic,799,80,Women,,Denim,Ankle Length,3.6,in-stock
+Miss Chase,549,59,Men,Skinny,Stretchable,Full Length,3.7,in-stock
+CHALODIA,799,75,Women,Baggy,Denim,Ankle Length,,in-stock
+HIGH STAR,899,69,Women,Regular,,Regular Length,4.0,in-stock
+Monte Carlo,460,45,Men,Straight,Denim,Ankle Length,3.8,in-stock
+ZORO,199,70,Men,,Cotton,Full Length,4.0,in-stock
+INKD,799,82,Men,Regular,,Cropped,3.3,in-stock
+Amazon Brand - Symbol,759,65,Men,Regular,Cotton,Cropped,4.1,out-of-stock
+Ben Martin,827.,70,Men,Bootcut,Denim,Ankle Length,2.6,in-stock
+Cantabil,"1,264",80,Women,,,Full Length,3.6,out-of-stock
+GRECIILOOKS,149,65,Women,Wide,Denim,Full Length,3.7,out-of-stock
+Marks & Spencer,360.,46,Men,Skinny,,Ankle Length,3.0,in-stock
+JACK & JONES,949,48,Women,Skinny,,Full Length,3.9,in-stock
+HIGH STAR,899,63,Men,Wide,,Full Length,4.7,in-stock
+INKD,780,61,Women,Regular,Cotton,Cropped,3.7,in-stock
+LOOXMEAR,699,50,Men,,Denim,Full Length,3.7,in-stock
+Highlander,"1,346",77,Women,Loose,,Regular Length,4.6,in-stock
+GRECIILOOKS,"2,619",76,Women,,cotton,Ankle Length,4.2,in-stock
+Generic,959,39,Men,,,Cropped,3.8,in-stock
+Bewakoof,759,59,Women,Regular,Cotton,Full Length,4.3,in-stock
+Amazon Brand - Symbol,349,60,Women,Mom,,Full Length,4.1,in-stock
+Handcuffs,619,60,Women,,Denim,Regular Length,3.7,in-stock
+Amazon Brand - Symbol,549,47,Men,Tapered,,Full Length,3.9,in-stock
+LOUIS SENSE,726,83,Women,Loose,,Cropped,3.5,in-stock
+ZORO UNITED,"1,218",80,Men,,Fabric,Regular Length,3.9,out-of-stock
+JACK & JONES,"1,029",62,Women,Relaxed,,Ankle Length,3.0,in-stock
+KATECLO,399,57,Men,Bootcut,,Regular Length,3.6,in-stock
+Bewakoof,"1,069",61,Women,Straight,Cotton,Full Length,4.0,in-stock
+TOPPROSPER,699,60,Women,,,Full Length,4.4,in-stock
+London Hills,399,65,Men,Relaxed,,Full Length,4.0,out-of-stock
+INKD,"1,910",62,Women,Regular,Cotton,Ankle Length,3.8,in-stock
+GRECIILOOKS,649,65,Men,Wide,Denim,Cropped,3.9,in-stock
+Amazon Brand - Symbol,"1,497",68,Men,Slim,Cotton,Cropped,3.8,out-of-stock
+Ben Martin,399,68,Women,Slim,,Full Length,3.7,in-stock
+INKD,699,57,Men,Wide,Cotton,Cropped,4.1,in-stock
+Highlander,859,77,Men,Straight,,Regular Length,4.0,in-stock
+Spykar,699,55,Men,Slim,,Full Length,4.0,in-stock
+Urbano Plus,769,62,Men,Straight,Stretchable,Cropped,4.1,in-stock
+Spykar,799,55,Men,Tapered,,Ankle Length,5.0,in-stock
+Highlander,689,64,Women,Tapered,,Regular Length,4.0,in-stock
+INKD,519,70,Men,,Stretchable,Cropped,4.1,in-stock
+Amazon Brand - Symbol,"1,659",61,Men,Relaxed,Cotton,Regular Length,3.7,out-of-stock
+Ben Martin,999,58,Women,Regular,Stretchable,Ankle Length,3.8,in-stock
+Miss Chase,"1,569",68,Men,Skinny,Stretchable,Ankle Length,3.9,out-of-stock
+Levi's,469,57,Women,Slim,,Cropped,3.8,in-stock
+TOPPROSPER,748,59,Men,,,Regular Length,4.4,in-stock
+INKD,749,60,Women,Regular,Cotton,Ankle Length,3.8,in-stock
+Levi's,779,62,Men,Straight,,Ankle Length,3.7,in-stock
+GRECIILOOKS,799,10,Men,Baggy,Denim,Full Length,2.0,out-of-stock
+Cantabil,799,65,Women,Regular,Cotton,Cropped,4.4,out-of-stock
+Veltick,899,,Women,Straight,Denim,Regular Length,3.5,in-stock
+GKN,"1,230",75,Women,Loose,,Regular Length,4.4,in-stock
+Amazon Brand - Symbol,399,68,Men,Skinny,Stretchable,Ankle Length,,in-stock
+ZORO,859,70,Men,,Stretchable,Ankle Length,4.2,in-stock
+The Indian Garage Co,"2,700",82,Men,Slim,,Regular Length,3.6,in-stock
+JACK & JONES,699,69,Women,Skinny,,Cropped,3.6,in-stock
+Cantabil,760,45,Men,Regular,Cotton,Ankle Length,4.5,in-stock
+ZORO,499,75,Men,,Stretchable,Cropped,4.2,in-stock
+INKD,159,74,Men,Slim,Cotton,Regular Length,4.0,out-of-stock
+JACK & JONES,699,61,Men,Regular,,Cropped,4.0,in-stock
+TAGAS,269,30,Women,Straight,Cotton,Ankle Length,3.3,out-of-stock
+Amazon Brand - Symbol,619,73,Men,,,Regular Length,3.6,in-stock
+Amazon Brand - Symbol,"2,199",71,Women,Skinny,Stretchable,Cropped,3.7,in-stock
+Ben Martin,924,70,Women,Baggy,Denim,Full Length,3.9,in-stock
+ADD GEAR,259,70,Women,,,Cropped,4.0,in-stock
+Jubination,879,48,Men,,Denim,Cropped,4.2,in-stock
+VERO MODA,"1,889",71,Women,Skinny,,Full Length,4.0,out-of-stock
+London Hills,799,67,Women,Loose,Denim,Cropped,3.6,in-stock
+Symbol Premium,549,68,Men,Baggy,,Ankle Length,3.8,out-of-stock
+SUOSDEY,699,56,Men,,,Cropped,4.0,out-of-stock
+ANGERHOOD,899,54,Men,Baggy,Denim,Ankle Length,3.9,in-stock
+Cantabil,259,86,Women,Regular,Cotton,Cropped,3.5,in-stock
+JACK & JONES,399,75,Men,Regular,,Ankle Length,3.7,in-stock
+London Hills,660,51,Women,Relaxed,,Cropped,3.5,in-stock
+JACK & JONES,649,65,Women,Skinny,,Regular Length,4.0,out-of-stock
+Spykar,"1,549",55,Women,Skinny,,Full Length,3.5,in-stock
+Spykar,229,80,Men,Bootcut,,Regular Length,3.8,out-of-stock
+Amazon Brand - Symbol,499,79,Women,Wide,,Ankle Length,3.3,in-stock
+JACK & JONES,949,,Men,Regular,,Full Length,3.8,in-stock
+Nifty,"1,617",42,Men,,Cotton,Full Length,3.5,in-stock
+Toxen,699,62,Women,,,Cropped,3.5,in-stock
+INKD,"1,574",68,Women,Regular,Cotton,Ankle Length,3.8,in-stock
+Ben Martin,584.,63,Women,Tapered,Stretchable,Regular Length,4.0,out-of-stock
+ONLY,643.,70,Women,Wide,,Cropped,3.9,in-stock
+NHCDFA,949,67,Women,,,Full Length,4.0,in-stock
+Shining Diva Fashion,"1,449",62,Women,,,Regular Length,3.2,out-of-stock
+U.S. POLO ASSN.,498,67,Women,Regular,,Regular Length,4.6,in-stock
+KOTTY,189,25,Men,Straight,,Cropped,4.0,in-stock
+Its 4 You,859,75,Women,,,Regular Length,4.0,in-stock
+U.S. POLO ASSN.,899,73,Women,Slim,,Cropped,3.9,out-of-stock
+GKN,"1,303.",6,Women,Loose,,Ankle Length,4.3,in-stock
+Miss Chase,759,52,Women,Wide,Stretchable,Ankle Length,3.6,in-stock
+HIGH STAR,497,62,Men,Regular,,Regular Length,3.7,in-stock
+Handcuffs,974,73,Women,,Cotton,Ankle Length,,in-stock
+ZORO,499,50,Men,,Stretchable,Full Length,3.7,in-stock
+Urbano Fashion,269.,84,Men,Slim,Stretchable,Regular Length,3.9,out-of-stock
+INKD,"2,631",60,Women,Straight,Cotton,Cropped,4.0,out-of-stock
+Amazon Brand - Symbol,169,60,Men,Slim,Cotton,Full Length,5.0,in-stock
+Ben Martin,999,,Men,Slim,,Cropped,4.0,in-stock
+GRECIILOOKS,729,68,Men,Wide,Denim,Ankle Length,4.1,out-of-stock
+Highlander,449,65,Men,Straight,,Cropped,4.0,in-stock
+Spykar,237,77,Men,Tapered,,Cropped,4.1,in-stock
+Spykar,639,55,Women,Slim,,Full Length,3.7,in-stock
+Urbano Plus,799,55,Men,Straight,Stretchable,Cropped,3.9,out-of-stock
+Levi's,769,62,Women,Straight,,Full Length,3.8,in-stock
+INKD,799,45,Men,,Stretchable,Ankle Length,4.3,in-stock
+Amazon Brand - Symbol,699,70,Women,Relaxed,Cotton,Cropped,4.0,in-stock
+Miss Chase,519,61,Women,Skinny,Stretchable,Cropped,3.7,in-stock
+Ben Martin,"1,569",58,Men,Regular,Stretchable,Regular Length,4.4,in-stock
+ZORO,"1,659",,Women,,Stretchable,Ankle Length,5.0,in-stock
+HIGH STAR,999,68,Men,Regular,,Ankle Length,4.1,in-stock
+INKD,"1,809",84,Women,Regular,Cotton,Cropped,3.6,in-stock
+Its 4 You,748,,Women,,,Regular Length,3.3,in-stock
+Generic,749,65,Women,,,Full Length,4.1,in-stock
+JET STREAM,779,76,Men,Wide,,Full Length,3.5,out-of-stock
+Pepe Jeans,799,64,Men,Relaxed,,Full Length,4.0,in-stock
+HIGH STAR,899,50,Men,Regular,,Cropped,3.9,in-stock
+Toxen,799,31,Women,,,Full Length,4.0,in-stock
+ZORO,237,66,Women,,fabric,Regular Length,3.7,in-stock
+Bewakoof,919,68,Men,Straight,Cotton,Ankle Length,3.7,in-stock
+Its 4 You,779,91,Women,,,Regular Length,3.3,out-of-stock
+Miss Chase,287.,47,Women,Skinny,,Regular Length,3.6,in-stock
+JACK & JONES,699,73,Men,Regular,,Regular Length,3.7,in-stock
+HIGH STAR,499,60,Men,Bootcut,,Ankle Length,,in-stock
+HIGH STAR,967,30,Women,Regular,,Cropped,3.5,in-stock
+TAGAS,919,,Women,Straight,Cotton,Cropped,4.1,in-stock
+Amazon Brand - Symbol,189,68,Women,,,Ankle Length,5.0,in-stock
+Amazon Brand - Symbol,269,73,Women,Skinny,Stretchable,Regular Length,3.4,in-stock
+INKD,"1,999",71,Men,Straight,Cotton,Cropped,3.5,in-stock
+Spykar,269.,70,Men,Skinny,,Regular Length,4.0,in-stock
+Bewakoof,787.,60,Men,Straight,Cotton,Regular Length,3.8,in-stock
+Max,"1,889",80,Women,,Cotton,Full Length,4.0,in-stock
+INKD,386.,56,Women,Regular,Cotton,Cropped,3.4,in-stock
+JACK & JONES,799,62,Women,Regular,,Full Length,3.6,in-stock
+Amazon Brand - Symbol,799,42,Women,Wide,,Full Length,3.8,in-stock
+Nifty,549,65,Men,,Cotton,Regular Length,3.9,out-of-stock
+Yoop,699,62,Men,,,Cropped,4.6,in-stock
+BENE KLEED,799,80,Men,Straight,Cotton,Ankle Length,3.9,out-of-stock
+BENE KLEED,584.,74,Women,Relaxed,Cotton,Cropped,3.2,out-of-stock
+ANGERHOOD,"1,499",64,Women,Baggy,Denim,Cropped,3.6,in-stock
+Being Human,999,86,Women,,Cotton,Full Length,3.6,in-stock
+HIGH STAR,839,50,Women,Wide,,Cropped,3.7,in-stock
+Amazon Brand - Symbol,"1,449",63,Men,,Denim,Regular Length,3.7,in-stock
+HIGH STAR,959,60,Men,Wide,,Cropped,4.0,in-stock
+HIGH STAR,498,51,Men,Wide,Stretchable,Cropped,3.8,in-stock
+U.S. POLO ASSN.,179,52,Men,Regular,,Regular Length,4.0,out-of-stock
+JACK & JONES,919,25,Women,,,Full Length,3.6,in-stock
+Bewakoof,828,42,Men,,,Regular Length,2.5,in-stock
+HIGH STAR,499,23,Men,Regular,,Full Length,4.3,in-stock
+U.S. POLO ASSN.,"2,300",54,Women,Slim,,Regular Length,2.6,in-stock
+Dolce Crudo,"1,161",6,Women,Skinny,Stretchable,Full Length,3.9,in-stock
+JACK & JONES,849,67,Women,Skinny,,Full Length,3.7,in-stock
+INKD,"1,339",42,Women,Regular,,Regular Length,3.8,in-stock
+PALAY,"1,142",80,Men,Wide,,Ankle Length,3.9,in-stock
+Shining Diva Fashion,974,22,Men,,,Regular Length,5.0,in-stock
+Bewakoof,"2,319",67,Women,Straight,Cotton,Full Length,4.0,in-stock
+GRECIILOOKS,999,41,Women,,,Cropped,4.0,in-stock
+Amazon Brand - Symbol,"1,424",76,Men,,,Ankle Length,4.1,out-of-stock
+Bewakoof,"2,631",71,Men,Baggy,Cotton,Cropped,4.0,out-of-stock
+Bewakoof,799,59,Men,Wide,Cotton,Full Length,4.3,in-stock
+Bewakoof,"2,319",55,Women,Tapered,Cotton,Ankle Length,4.0,out-of-stock
+Ben Martin,439,66,Men,Baggy,Denim,Full Length,1.0,in-stock
+Ben Martin,694,70,Men,Slim,,Full Length,4.5,in-stock
+Amazon Brand - Symbol,497,68,Men,Slim,Cotton,Ankle Length,3.7,out-of-stock
+GRECIILOOKS,"1,888",68,Men,Wide,Denim,Full Length,4.3,in-stock
+Spykar,549,65,Men,Tapered,,Cropped,3.7,out-of-stock
+Highlander,549,55,Women,Straight,,Ankle Length,4.5,in-stock
+Spykar,"1,405",77,Men,Slim,,Regular Length,4.1,in-stock
+Urbano Plus,"1,309",,Women,Straight,Stretchable,Ankle Length,4.0,in-stock
+Highlander,999,62,Men,Tapered,,Regular Length,3.9,in-stock
+DUUBLE TREE,899,64,Women,,,Full Length,4.2,in-stock
+Bewakoof,799,77,Women,Loose,Cotton,Regular Length,3.7,in-stock
+ONLY,769,63,Women,Straight,,Cropped,4.0,in-stock
+JACK & JONES,699,45,Women,Skinny,,Ankle Length,4.3,out-of-stock
+HIGH STAR,"1,569",50,Women,Bootcut,,Cropped,3.6,in-stock
+Bewakoof,519,85,Women,Wide,Cotton,Full Length,2.0,in-stock
+HIGH STAR,"1,659",55,Women,Straight,,Regular Length,3.9,in-stock
+Pepe Jeans,999,69,Men,Relaxed,,Full Length,2.6,in-stock
+Buildcon,469,31,Women,,,Cropped,3.8,out-of-stock
+Gelante,649.,85,Women,,Fabric,Full Length,3.6,out-of-stock
+ZEVORA,799.,57,Women,,,Full Length,3.7,out-of-stock
+Max,449.,73,Men,Regular,,Full Length,3.0,in-stock
+BENE KLEED,349,78,Women,Straight,Cotton,Cropped,3.8,in-stock
+ONLY,"1,049",,Women,Straight,,Ankle Length,3.8,in-stock
+WHIPPY,"3,024",53,Men,,,Full Length,4.0,in-stock
+ADBUCKS,"1,899",76,Women,Straight,,Regular Length,3.7,out-of-stock
+BENE KLEED,386.,60,Women,Relaxed,Cotton,Regular Length,3.6,in-stock
+Handcuffs,"1,309",48,Men,,Denim,Cropped,3.8,out-of-stock
+Amazon Brand - Symbol,827.,54,Women,Wide,,Full Length,3.9,in-stock
+Miss Chase,967,44,Women,Slim,Denim,Full Length,3.9,in-stock
+JACK & JONES,299,53,Men,Skinny,,Full Length,4.0,in-stock
+ADBUCKS,298,66,Women,Straight,,Cropped,4.0,in-stock
+Bewakoof,299,74,Women,Tapered,Cotton,Cropped,4.0,in-stock
+Leriya Fashion,349,68,Women,,,Full Length,3.6,in-stock
+Amazon Brand - Symbol,962,52,Women,Slim,Stretchable,Cropped,3.5,in-stock
+Amazon Brand - Symbol,817.,74,Men,Tapered,Denim,Ankle Length,3.8,in-stock
+Highlander,396,41,Men,Straight,,Full Length,4.4,in-stock
+Bewakoof,934,60,Men,Straight,Cotton,Full Length,5.0,in-stock
+High Star Clothing,780,45,Women,Bootcut,Stretchable,Full Length,4.0,in-stock
+VERO MODA,399,42,Men,Slim,,Full Length,4.0,in-stock
+ADBUCKS,"1,049",83,Women,Loose,,Regular Length,4.1,in-stock
+ZORO,899,64,Women,,,Regular Length,4.0,out-of-stock
+Pepe,"2,499",73,Women,Regular,Denim,Full Length,3.9,in-stock
+BENE KLEED,707,80,Women,Relaxed,Cotton,Regular Length,4.1,out-of-stock
+Marks & Spencer,999,68,Women,Relaxed,,Ankle Length,3.9,in-stock
+Jack and Jini,529,30,Women,Regular,Cotton,Ankle Length,3.7,in-stock
+Romile,699,68,Women,Regular,,Regular Length,3.8,out-of-stock
+Marks & Spencer,"1,009",60,Men,Regular,,Full Length,4.0,in-stock
+HIGH STAR,679,50,Men,Mom,,Cropped,5.0,out-of-stock
+HIGH STAR,"1,888",71,Men,Wide,Stretchable,Ankle Length,3.5,out-of-stock
+VERO MODA,919,85,Men,Skinny,,Ankle Length,,out-of-stock
+Bewakoof,"2,089",49,Men,Straight,Cotton,Cropped,4.1,in-stock
+ZORO,868,67,Men,,Fabric,Full Length,4.1,in-stock
+High Star Clothing,259,58,Men,Relaxed,Stretchable,Regular Length,3.6,in-stock
+Bewakoof,"1,150.",78,Men,Regular,Cotton,Regular Length,5.0,in-stock
+Spykar,905,64,Men,,,Ankle Length,3.5,in-stock
+FY LANE,"4,999",55,Women,,Cotton,Cropped,3.7,in-stock
+Bewakoof,399,77,Women,Loose,Cotton,Ankle Length,3.6,in-stock
+Spykar,479,55,Men,Tapered,,Cropped,4.0,in-stock
+Highlander,"1,749",62,Men,Straight,,Full Length,4.1,out-of-stock
+Spykar,"1,019",64,Women,Slim,,Regular Length,3.8,out-of-stock
+Urbano Plus,"1,019",61,Men,Straight,Stretchable,Cropped,4.2,in-stock
+Highlander,"1,249",57,Men,Tapered,,Regular Length,3.8,in-stock
+INKD,899,58,Women,,Stretchable,Full Length,5.0,in-stock
+Miss Chase,299,,Men,Skinny,Stretchable,Cropped,3.3,in-stock
+Amazon Brand - Symbol,"1,029",74,Men,Relaxed,Cotton,Ankle Length,3.6,in-stock
+Ben Martin,849,58,Women,Regular,Stretchable,Full Length,3.7,in-stock
+Max,"1,468",80,Men,Regular,,Cropped,3.7,in-stock
+Hubberholme,179,76,Women,Relaxed,Cotton,Cropped,3.8,in-stock
+Hubberholme,"1,349",50,Men,Slim,Denim,Cropped,4.0,in-stock
+Buildcon,"1,569",67,Women,,,Ankle Length,2.0,in-stock
+Jack and Jini,519,67,Men,Regular,Cotton,Ankle Length,3.8,in-stock
+BENE KLEED,"1,659",62,Women,Relaxed,Cotton,Ankle Length,4.0,out-of-stock
+KBNBJ,999,73,Women,,,Regular Length,3.8,out-of-stock
+Bewakoof,469,56,Women,Regular,Cotton,Cropped,4.0,out-of-stock
+CPD Empire,779,63,Women,Skinny,,Ankle Length,3.3,in-stock
+SMOWKLY,899,66,Men,Relaxed,,Regular Length,4.4,in-stock
+Its 4 You,799,76,Men,,,Full Length,3.1,in-stock
+Bewakoof,799,73,Women,Regular,Cotton,Regular Length,3.8,in-stock
+Amazon Brand - Symbol,349,71,Women,Bootcut,,Cropped,4.0,in-stock
+Van Heusen,"1,014",70,Women,Straight,,Regular Length,3.2,out-of-stock
+FabSeasons,714,60,Men,,Cotton,Full Length,4.2,in-stock
+Its 4 You,649.,68,Women,,,Regular Length,4.2,in-stock
+TAGAS,799.,60,Women,Straight,Cotton,Ankle Length,5.0,in-stock
+Amazon Brand - Symbol,449.,44,Women,,,Cropped,3.9,in-stock
+Amazon Brand - Symbol,299,83,Women,Skinny,Stretchable,Cropped,1.0,out-of-stock
+INKD,399,66,Men,Straight,Cotton,Full Length,4.0,in-stock
+Romile,780,80,Women,Regular,,Full Length,3.7,in-stock
+Handcuffs,399,78,Women,,Denim,Cropped,4.1,in-stock
+JACK & JONES,849,62,Men,Skinny,,Full Length,5.0,in-stock
+ZORO,98,30,Men,,Stretchable,Cropped,3.7,in-stock
+U.S. POLO ASSN.,499,85,Women,Regular,,Cropped,4.0,out-of-stock
+FYLTR,269.,68,Women,,,Regular Length,3.9,in-stock
+Marks & Spencer,"1,298",64,Women,Relaxed,,Cropped,3.8,out-of-stock
+FY LANE,949,65,Women,,Cotton,Full Length,3.7,in-stock
+SHAIRA FASHION,979,,Men,,,Full Length,3.9,in-stock
+Marks & Spencer,682,54,Men,Regular,,Ankle Length,3.8,in-stock
+ZORO,287.,25,Women,,Fabric,Full Length,4.0,in-stock
+Toxen,799,53,Women,,,Full Length,5.0,in-stock
+Bewakoof,549,32,Men,Loose,Cotton,Ankle Length,4.0,in-stock
+Mack Jonney,699,71,Men,Loose,Cotton,Ankle Length,4.0,in-stock
+Anirdesh,799,74,Men,,,Regular Length,4.1,out-of-stock
+SUOSDEY,479,54,Men,,,Ankle Length,4.0,in-stock
+U.S. POLO ASSN.,399,84,Men,Regular,,Regular Length,3.9,out-of-stock
+Hubberholme,"2,499",66,Women,Slim,Stretchable,Regular Length,4.1,in-stock
+CAPICHINO,169,60,Women,Regular,Denim,Cropped,3.7,in-stock
+Jubination,782,66,Women,,Denim,Regular Length,3.9,in-stock
+ZORO,259,22,Men,,Stretchable,Cropped,3.8,in-stock
+Bewakoof,"4,999",34,Women,Loose,Cotton,Cropped,3.5,out-of-stock
+Simpl Living,179,55,Women,,Fabric,Ankle Length,3.9,in-stock
+Spykar,499,42,Men,Slim,,Regular Length,3.1,in-stock
+Pepe Jeans,"1,749",50,Men,Regular,Cotton,Full Length,4.0,in-stock
+Campus Sutra,299,62,Men,Regular,Cotton,Cropped,4.3,out-of-stock
+NEVA,189,68,Women,,,Regular Length,5.0,in-stock
+SANNIDHI,"1,349",,Men,Loose,,Full Length,4.0,out-of-stock
+FASHOLIC,349,68,Men,,Denim,Ankle Length,3.0,out-of-stock
+KOSHA,199,58,Men,,,Ankle Length,3.4,out-of-stock
+Coreteq,229,55,Men,,,Regular Length,3.7,in-stock
+NHCDFA,974,55,Men,,,Cropped,3.6,in-stock
+Ben Martin,611,77,Women,Slim,,Regular Length,3.3,in-stock
+Ben Martin,425,62,Men,Baggy,Denim,Full Length,3.6,in-stock
+Amazon Brand - Symbol,399,64,Women,Slim,Cotton,Cropped,3.7,in-stock
+INKD,259,61,Men,Wide,Stretchable,Ankle Length,3.7,in-stock
+Spykar,"1,299",58,Men,Tapered,,Ankle Length,4.1,out-of-stock
+Spykar,235,57,Men,Slim,,Full Length,4.0,in-stock
+Highlander,"1,127.",68,Women,Straight,,Ankle Length,5.0,out-of-stock
+Urbano Plus,879,50,Men,Straight,Stretchable,Ankle Length,3.6,out-of-stock
+Highlander,883,80,Men,Tapered,,Regular Length,3.6,in-stock
+INKD,499,73,Men,,Stretchable,Full Length,4.0,in-stock
+Amazon Brand - Symbol,296,40,Women,Relaxed,Cotton,Regular Length,3.4,in-stock
+Miss Chase,449,50,Men,Skinny,Stretchable,Ankle Length,4.0,out-of-stock
+Ben Martin,980,67,Women,Regular,Stretchable,Regular Length,3.7,out-of-stock
+Levi's,295,65,Men,,,Regular Length,4.0,in-stock
+Generic,759,,Men,Regular,Cotton,Full Length,3.6,in-stock
+Generic,799,51,Women,,Denim,Ankle Length,3.7,in-stock
+BENE KLEED,899,55,Men,Straight,Cotton,Full Length,5.0,in-stock
+HUFREIND,769,64,Men,Straight,Denim,Ankle Length,3.8,in-stock
+JACK & JONES,899,75,Women,Regular,,Cropped,3.0,in-stock
+Shining Diva Fashion,"1,569",30,Women,,,Cropped,3.7,in-stock
+KOTTY,"1,659",69,Men,Straight,,Regular Length,4.5,in-stock
+FY LANE,519,63,Men,,Denim,Ankle Length,5.0,out-of-stock
+VOLTEDGE,999,73,Women,Loose,,Cropped,4.0,in-stock
+Bewakoof,469,77,Women,Straight,Cotton,Ankle Length,4.3,in-stock
+High Star Clothing,779,70,Women,Wide,Stretchable,Ankle Length,3.8,in-stock
+Cantabil,799,60,Men,Regular,Cotton,Ankle Length,5.0,in-stock
+JACK & JONES,899,50,Women,Regular,,Full Length,3.6,in-stock
+HIGH STAR,799,50,Men,Straight,,Cropped,4.4,out-of-stock
+THIRD QUADRANT,"3,699",37,Women,Loose,,Ankle Length,3.4,in-stock
+TAGAS,749,30,Women,Straight,Cotton,Regular Length,3.8,in-stock
+Amazon Brand - Symbol,199,69,Men,,,Regular Length,3.9,in-stock
+Amazon Brand - Symbol,962,65,Men,Skinny,Stretchable,Regular Length,3.9,out-of-stock
+INKD,"1,499",47,Women,Straight,Cotton,Full Length,3.3,in-stock
+ZEVORA,"1,499",60,Men,,,Regular Length,3.2,in-stock
+JACK & JONES,497,53,Women,Regular,,Cropped,3.7,in-stock
+Zibuyu,699,75,Women,,,Full Length,3.9,out-of-stock
+Pepe Jeans,298,47,Men,Regular,Cotton,Regular Length,3.8,in-stock
+Toxen,"1,707",22,Women,,,Regular Length,5.0,in-stock
+Masterly Weft,"1,484",78,Women,,Denim,Full Length,4.0,in-stock
+RAGZO,936,47,Women,,Stretchable,Cropped,4.0,in-stock
+Levi's,999,53,Women,Slim,,Cropped,4.1,out-of-stock
+ADBUCKS,"2,089",67,Women,Straight,,Ankle Length,4.0,in-stock
+Cantabil,827.,,Women,Regular,Cotton,Full Length,4.1,in-stock
+HIGH STAR,746,76,Women,,Stretchable,Ankle Length,3.7,out-of-stock
+PALAY,799,57,Women,Wide,,Ankle Length,3.9,in-stock
+Bewakoof,529,77,Men,Baggy,,Full Length,3.8,in-stock
+VEZZA,699,63,Women,,,Ankle Length,4.0,out-of-stock
+PENTOO,799,45,Women,Relaxed,Denim,Full Length,3.8,in-stock
+ROOKIES,298,53,Men,,,Regular Length,3.9,in-stock
+CPD Empire,"1,649",55,Women,Skinny,,Full Length,4.4,in-stock
+ONLY,269,52,Women,Straight,,Cropped,4.1,out-of-stock
+zaahii,"2,108",81,Men,Straight,Stretchable,Cropped,4.1,in-stock
+ADBUCKS,185,75,Men,Loose,,Cropped,3.6,out-of-stock
+DUUBLE TREE,699,49,Men,,,Full Length,4.0,in-stock
+Amazon Brand - Symbol,799,68,Women,Bootcut,,Ankle Length,5.0,out-of-stock
+JACK & JONES,"1,399",50,Men,Regular,,Regular Length,5.0,out-of-stock
+DUUBLE TREE,934,58,Men,Straight,,Regular Length,5.0,in-stock
+ONLY,999,,Women,Mom,,Cropped,4.2,in-stock
+JACK & JONES,"1,199",70,Men,,,Full Length,2.7,in-stock
+KOTTY,694,45,Men,,Cotton,Cropped,4.1,in-stock
+KOTTY,"3,399",68,Men,Straight,,Regular Length,4.4,out-of-stock
+Levi's,179,56,Men,Slim,,Cropped,5.0,in-stock
+Toxen,799,55,Men,,,Ankle Length,5.0,in-stock
+Pepe Jeans,"1,499",77,Men,Regular,Cotton,Ankle Length,3.3,in-stock
+CRESSNOVA,98,62,Women,,,Cropped,3.6,in-stock
+Ben Martin,"1,934",64,Men,Slim,,Ankle Length,3.7,in-stock
+Ben Martin,459,,Women,Baggy,Denim,Cropped,3.7,in-stock
+Lyra,865,61,Men,Wide,Stretchable,Regular Length,2.6,in-stock
+Amazon Brand - Symbol,349,58,Women,Slim,Cotton,Regular Length,3.8,in-stock
+Spykar,969,57,Women,Tapered,,Regular Length,3.7,out-of-stock
+Spykar,"1,924",68,Women,Slim,,Full Length,3.7,in-stock
+Highlander,750,67,Women,Straight,,Cropped,3.8,in-stock
+Urbano Plus,"1,799",75,Women,Straight,Stretchable,Regular Length,3.0,in-stock
+Highlander,"1,574",61,Women,Tapered,,Regular Length,3.6,in-stock
+INKD,383.,53,Men,,Stretchable,Full Length,4.0,in-stock
+Amazon Brand - Symbol,499,57,Women,Relaxed,Cotton,Regular Length,3.6,in-stock
+Miss Chase,"1,631",47,Women,Skinny,Stretchable,Full Length,4.5,in-stock
+Ben Martin,189,59,Men,Regular,Stretchable,Regular Length,3.6,out-of-stock
+Shining Diva Fashion,"1,099",50,Women,,,Regular Length,3.4,out-of-stock
+Cantabil,419,52,Women,,Denim,Cropped,3.3,in-stock
+HIGH STAR,799,35,Women,Regular,,Cropped,3.9,in-stock
+DUUBLE TREE,899,53,Men,Straight,,Regular Length,4.6,in-stock
+ADBUCKS,829,53,Men,Loose,,Cropped,3.7,in-stock
+U.S. POLO ASSN.,769,62,Men,Regular,,Full Length,5.0,in-stock
+Bewakoof,"1,529",6,Women,Baggy,Cotton,Full Length,3.6,out-of-stock
+Masterly Weft,"1,659",73,Women,Regular,Stretchable,Regular Length,4.6,in-stock
+HIGH STAR,519,79,Women,Straight,,Regular Length,1.6,in-stock
+JACK & JONES,999,60,Men,Regular,Cotton,Regular Length,3.6,out-of-stock
+VERO MODA,469,70,Women,Skinny,Stretchable,Full Length,3.0,in-stock
+Masterly Weft,748,67,Women,Slim,Stretchable,Cropped,3.9,in-stock
+HIGH STAR,749,69,Men,Relaxed,Cotton,Regular Length,3.4,in-stock
+ROOKIES,779,67,Women,,,Regular Length,3.6,in-stock
+Allen Cooper,799,20,Women,,Denim,Cropped,3.7,in-stock
+U.S. POLO ASSN.,899,,Men,Regular,,Cropped,3.7,in-stock
+TAGAS,799,52,Women,Straight,Cotton,Cropped,3.9,in-stock
+Amazon Brand - Symbol,497,80,Women,,,Ankle Length,4.0,in-stock
+INKD,874,55,Men,Straight,Cotton,Ankle Length,5.0,out-of-stock
+Amazon Brand - Symbol,989,57,Women,Skinny,Stretchable,Ankle Length,4.0,in-stock
+ONLY,649.,45,Women,Loose,,Cropped,4.1,in-stock
+Levi's,799.,67,Women,Skinny,,Cropped,4.0,in-stock
+Toxen,449.,68,Men,,,Regular Length,4.1,in-stock
+CPD Empire,750,47,Men,Skinny,,Full Length,3.8,out-of-stock
+CAPICHINO,865,75,Women,Slim,Stretchable,Regular Length,3.7,in-stock
+KOTTY,"1,315",68,Women,,Cotton,Cropped,3.9,out-of-stock
+WOODONICK STORE,"1,405",50,Men,,,Cropped,5.0,in-stock
+Jack and Jini,699,76,Men,Regular,Cotton,Full Length,4.1,in-stock
+Max,"1,170",80,Men,Regular,,Regular Length,3.9,in-stock
+VERO MODA,"2,144",58,Women,Skinny,,Ankle Length,3.9,out-of-stock
+Pepe Jeans,"1,170",45,Women,Regular,Cotton,Full Length,3.5,out-of-stock
+VERO MODA,"1,499",31,Women,Slim,,Ankle Length,2.0,in-stock
+Z&ZENTLY,"1,490",50,Men,Loose,,Ankle Length,4.0,out-of-stock
+NHCDFA,"2,635",55,Men,,,Full Length,3.9,out-of-stock
+RAGZO,799,7,Women,,Stretchable,Regular Length,3.7,in-stock
+Cantabil,529,54,Women,Regular,Cotton,Regular Length,3.7,out-of-stock
+HIGH STAR,799,47,Men,Mom,,Regular Length,4.2,in-stock
+LOOXMEAR,699,78,Men,,Denim,Regular Length,3.5,in-stock
+BENE KLEED,"1,653.",52,Women,Relaxed,Cotton,Full Length,3.3,in-stock
+INKD,"3,999",70,Men,Regular,,Regular Length,3.7,out-of-stock
+Bewakoof,185,68,Men,Regular,Cotton,Full Length,3.6,in-stock
+Ruby Fabrics Linings,98,68,Men,Wide,Cotton,Ankle Length,4.3,in-stock
+Pepe Jeans,799,70,Women,Relaxed,,Ankle Length,3.4,in-stock
+HIGH STAR,383.,13,Men,Straight,,Cropped,4.5,out-of-stock
+Wanderthreads Lifestyle Co.,289,,Men,Regular,Stretchable,Regular Length,3.9,in-stock
+U.S. POLO ASSN.,399,55,Men,Skinny,,Full Length,3.6,in-stock
+FREAKINS,349,55,Men,Straight,,Ankle Length,4.3,in-stock
+PENTOO,"1,350",77,Men,Relaxed,Denim,Ankle Length,3.2,in-stock
+ONLY,"1,303",62,Women,Straight,,Full Length,,out-of-stock
+JACK & JONES,"2,089",64,Men,,,Full Length,4.0,out-of-stock
+Ben Martin,497,54,Men,Slim,,Ankle Length,2.9,out-of-stock
+Dolce Crudo,639,50,Women,Regular,Stretchable,Regular Length,3.8,in-stock
+Ben Martin,799,61,Men,Slim,,Cropped,3.3,in-stock
+Ben Martin,999,68,Men,Baggy,Denim,Full Length,2.7,in-stock
+Generic,"1,019",58,Women,Straight,Denim,Regular Length,,in-stock
+Lyra,349,60,Women,Wide,Stretchable,Cropped,3.4,in-stock
+Spykar,780,71,Men,Slim,,Ankle Length,3.6,in-stock
+Spykar,439,91,Women,Tapered,,Cropped,3.5,in-stock
+Highlander,"1,499",40,Women,Straight,,Full Length,3.5,out-of-stock
+Urbano Plus,819,61,Women,Straight,Stretchable,Cropped,3.8,in-stock
+Highlander,967,55,Women,Tapered,,Ankle Length,3.7,in-stock
+INKD,"1,217",74,Women,,Stretchable,Regular Length,3.7,in-stock
+Ben Martin,899,48,Women,Regular,Stretchable,Cropped,3.9,out-of-stock
+Amazon Brand - Symbol,"2,603",53,Women,Relaxed,Cotton,Full Length,3.8,in-stock
+Miss Chase,"1,799",68,Women,Skinny,Stretchable,Regular Length,5.0,in-stock
+Bewakoof,799,69,Men,Baggy,Cotton,Ankle Length,4.0,in-stock
+ZORO,817.,66,Men,,fabric,Full Length,4.1,in-stock
+Crimsoune Club,"1,574",39,Women,Wide,Cotton,Full Length,4.0,in-stock
+HIGH STAR,749,60,Men,Wide,Stretchable,Cropped,4.0,out-of-stock
